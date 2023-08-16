@@ -1,0 +1,85 @@
+.bgonly{
+    background-color: rgb(245, 245, 245);
+}
+
+p{
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+h1{
+    display: block;
+    margin-right:  15%;
+    margin-left: 15%;
+    padding: 12px;
+    background-color: rgb(186, 186, 186);
+    border-radius: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.info{
+    margin: 10px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(121, 121, 121);
+    border-radius: 13px;
+}
+
+.divbg{
+    background-color: rgb(249, 249, 249);
+}
+
+a{ 
+    display: block;
+    margin-right:  30%;
+    margin-left: 30%;
+    padding: 12px;
+    background-color: rgb(69, 69, 69);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+}
+
+.blur{
+    filter: grayscale(100%) blur(1.3px);
+    border-radius: 24%;
+    }
+
+.round{
+    border-radius: 20px;
+    
+    }
+
+.psize{
+    height: 210;
+    width: 210;
+}
+.otherlink{ 
+    
+    display: block;
+    margin-right:  15%;
+    margin-left: 15%;
+    padding: 12px;
+    background-color: rgb(104, 102, 102);
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif
+}
